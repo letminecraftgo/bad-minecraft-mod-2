@@ -1,0 +1,223 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Shade_WoodWood",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_wood"
+    },
+    {
+      "name": "Shade_WoodLog",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_log"
+    },
+    {
+      "name": "Shade_WoodPlanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_planks"
+    },
+    {
+      "name": "Shade_WoodLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_leaves"
+    },
+    {
+      "name": "Shade_WoodStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_stairs"
+    },
+    {
+      "name": "Shade_WoodSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_slab"
+    },
+    {
+      "name": "Shade_WoodFence",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_fence"
+    },
+    {
+      "name": "Shade_WoodFenceGate",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_fence_gate"
+    },
+    {
+      "name": "Shade_WoodPressurePlate",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_pressure_plate"
+    },
+    {
+      "name": "Shade_WoodButton",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_button"
+    },
+    {
+      "name": "Shade_WoodItemsTag",
+      "type": "tag",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_items_tag"
+    },
+    {
+      "name": "Shade_WoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_wood_recipe"
+    },
+    {
+      "name": "Shade_WoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_planks_recipe"
+    },
+    {
+      "name": "Shade_WoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_stairs_recipe"
+    },
+    {
+      "name": "Shade_WoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_slab_recipe"
+    },
+    {
+      "name": "Shade_WoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_fence_recipe"
+    },
+    {
+      "name": "Shade_WoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_fence_gate_recipe"
+    },
+    {
+      "name": "Shade_WoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "Shade_WoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_button_recipe"
+    },
+    {
+      "name": "Shade_WoodStickRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shade_wood_stick_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.accursed_mod.shade_wood_fence_gate": "Shade_Wood Fence Gate",
+      "block.accursed_mod.shade_wood_log": "Shade_Wood Log",
+      "block.accursed_mod.shade_wood_wood": "Shade_Wood Wood",
+      "block.accursed_mod.shade_wood_slab": "Shade_Wood Slab",
+      "block.accursed_mod.shade_wood_fence": "Shade_Wood Fence",
+      "block.accursed_mod.shade_wood_pressure_plate": "Shade_Wood Pressure Plate",
+      "block.accursed_mod.shade_wood_planks": "Shade_Wood Planks",
+      "block.accursed_mod.shade_wood_stairs": "Shade_Wood Stairs",
+      "block.accursed_mod.shade_wood_leaves": "Shade_Wood Leaves",
+      "block.accursed_mod.shade_wood_button": "Shade_Wood Button"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "accursed_mod",
+    "modName": "accursed mod",
+    "version": "1.0.0",
+    "author": "tipsw, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.accursedmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
